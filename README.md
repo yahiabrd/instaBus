@@ -1,6 +1,8 @@
 # instaBus
 instaBus
 
+(if you want to use this project, you need to go in instaBus/app/src/main/res/values/strings.xml and add your PLACES API KEY)
+
 instaBus is a Android app using the BarcelonaAPI and Kotlin.
 The goal of this app is to localise bus stations in the city of barcelona, add pictures to this stations, share the pictures ect...
 
